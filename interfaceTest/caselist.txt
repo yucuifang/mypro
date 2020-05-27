@@ -1,0 +1,2 @@
+term_template/test_create_term_template
+links/test_create_link

@@ -1,0 +1,905 @@
+[
+  {
+    "id" : "1",
+    "testDescription" : "参数正确，修改成功",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试1",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "0",
+    "testDescription" : "参数ID=0，修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试1",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数assignRole=0，修改失败",
+    "assignRole": "0",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试1",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数linkRoles=[]，修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试2",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数linkTraitGroups=[] && useTrait=1,修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [],
+    "name": "链路测试3",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数name=''，修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数operators=[]，修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试4",
+    "operators": [],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数packageId=0，修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试4",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "0",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数retryLongTailTimeout=0，修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试1",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 0,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数retryNumThreshold=0，修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试5",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 0,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 0,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数retrySelfTimeout =0，修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试5",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 0,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数字段 termTemplateId =0，修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试6",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "0",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数defaultEnrollIntervalHour 晚于defaultFinishIntervalHour,修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": 0,
+    "defaultFinishIntervalHour": -1,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试1",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+    "testDescription" : "参数defaultEnrollIntervalHour 等于defaultFinishIntervalHour,修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": 0,
+    "defaultFinishIntervalHour": 0,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试1",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+	"testDescription" : "默认开始时间早于模板默认开始时间,修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -49,
+    "defaultFinishIntervalHour": -24,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试4",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  },
+  {
+    "id" : "1",
+	"testDescription" : "参数默认开始时间早于模板默认开始时间,修改失败",
+    "assignRole": "1",
+    "defaultEnrollIntervalHour": -48,
+    "defaultFinishIntervalHour": -23,
+    "linkRoles": [
+      "1",
+      "2"
+    ],
+    "linkTraitGroups": [
+      {
+        "groupNum": 1,
+        "traits": [
+          {
+            "traitCandidates" : [
+              {
+                "traitId": "1",
+                "traitValue": "女"
+              }
+            ],
+            "traitName": "性别标签"
+          },
+          {
+            "traitName": "城市标签",
+            "traitCandidates": [
+              {
+                "traitId": "2",
+                "traitValue": "一线城市"
+              },
+              {
+                "traitId": "3",
+                "traitValue": "二线城市"
+              }
+            ]
+          }
+        ],
+        "weight": 80
+      }
+    ],
+    "name": "链路测试4",
+    "operators": [
+      {
+        "operatorId" : "1",
+        "teamId" : "1"
+      },
+      {
+        "operatorId" : "2",
+        "teamId" : "2"
+      }
+    ],
+    "packageId": "1",
+    "retryLongTailTimeout": 48,
+    "retryNumThreshold": 2,
+    "retrySelfTimeout": 48,
+    "termTemplateId": "79",
+    "useTrait": 1,
+    "ret_code" : 1
+  }
+]

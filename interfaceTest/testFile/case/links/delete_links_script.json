@@ -1,0 +1,22 @@
+[
+	{
+		"testDescription" : "链路不存在,删除失败",
+		"id" : -1,
+		"ret_code" : 0
+	},
+	{
+		"testDescription" : "链路状态为【未启用】,删除成功",
+		"id" : 1,
+		"ret_code" : 1
+	},
+	{
+		"testDescription" : "链路状态为【使用中】,删除失败",
+		"id" : 2,
+		"ret_code" : 0
+	},
+	{
+		"testDescription" : "链路状态为【已停用】,删除失败",
+		"id" : 3,
+		"ret_code" : 0
+	}
+]

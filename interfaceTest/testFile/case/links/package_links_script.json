@@ -1,0 +1,41 @@
+[
+	[
+		{
+			"testDescription" : "链路分配权重正常,保存成功",
+			"linkId" : "4",
+			"quota" : 50
+		},
+		{
+			"linkId" : "5",
+			"quota" : 50
+		}
+	],
+	[
+			{
+				"linkId" : "4",
+				"quota" : 50
+			},
+			{
+				"linkId" : "5",
+				"quota" : 60
+			}
+	],
+	[],
+   [
+		{
+			"linkId" : "4",
+			"quota" : 50
+		},
+		{
+			"linkId" : "0",
+			"quota" : 50
+		}
+   ],
+	[
+		  {
+			  "linkId" : "0",
+			  "quota" : 0
+		  }
+	]
+
+]

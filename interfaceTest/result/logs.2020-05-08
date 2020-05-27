@@ -1,0 +1,233 @@
+2020-05-08 17:04:00,821 - logs… - INFO - 测试开始前准备
+2020-05-08 17:04:00,849 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 17:04:00,849 - logs… - INFO - test description:参数均正确，创建成功,test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},test result:True,result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 17:04:02,844 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 17:04:02,845 - logs… - INFO - test description:参数均正确，创建成功,test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},test result:True,result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 17:04:02,845 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 17:05:22,492 - logs… - INFO - 测试开始前准备
+2020-05-08 17:05:22,517 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 17:05:22,517 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 17:05:24,511 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 17:05:24,511 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 17:05:24,512 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 17:47:20,864 - logs… - INFO - 测试开始前准备
+2020-05-08 17:47:20,864 - logs… - INFO - 测试开始前准备
+2020-05-08 17:47:20,904 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 17:47:20,904 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 17:47:22,907 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 17:47:22,907 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 17:47:22,907 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 17:47:22,907 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:00:33,620 - logs… - INFO - 测试开始前准备
+2020-05-08 18:00:33,621 - logs… - INFO - 测试开始前准备
+2020-05-08 18:00:33,655 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:00:33,655 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:00:35,651 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:00:35,652 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:00:35,652 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:00:35,652 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:02:57,772 - logs… - INFO - 测试开始前准备
+2020-05-08 18:02:57,772 - logs… - INFO - 测试开始前准备
+2020-05-08 18:02:57,792 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:02:57,792 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:02:59,798 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:02:59,798 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:02:59,798 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:02:59,798 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:08:31,886 - logs… - INFO - 测试开始前准备
+2020-05-08 18:08:31,887 - logs… - INFO - 测试开始前准备
+2020-05-08 18:08:31,925 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:08:31,926 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:08:33,923 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:08:33,923 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:08:33,923 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:08:33,923 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:19:56,655 - logs… - INFO - 测试开始前准备
+2020-05-08 18:19:56,656 - logs… - INFO - 测试开始前准备
+2020-05-08 18:19:56,692 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:19:56,692 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:19:58,691 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:19:58,692 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:19:58,692 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:19:58,692 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:22:29,975 - logs… - INFO - 测试开始前准备
+2020-05-08 18:22:29,975 - logs… - INFO - 测试开始前准备
+2020-05-08 18:22:29,999 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:22:29,999 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:22:31,999 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:22:31,999 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:22:31,999 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:22:32,000 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:23:56,909 - logs… - INFO - 测试开始前准备
+2020-05-08 18:23:56,909 - logs… - INFO - 测试开始前准备
+2020-05-08 18:23:56,931 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:23:56,931 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:23:58,939 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:23:58,939 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:23:58,939 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:23:58,939 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:29:43,004 - logs… - INFO - resultPath/Users/cf/PycharmProjects/interfaceTest/result/report.html
+2020-05-08 18:29:43,005 - logs… - INFO - caseListFile/Users/cf/PycharmProjects/interfaceTest/caselist.txt
+2020-05-08 18:29:43,005 - logs… - INFO - caseList[]
+2020-05-08 18:29:43,166 - logs… - INFO - 测试开始前准备
+2020-05-08 18:29:43,167 - logs… - INFO - 测试开始前准备
+2020-05-08 18:29:43,198 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:29:43,198 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test1', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:29:45,198 - logs… - INFO - {
+  "code": 101061,
+  "data": 0,
+  "msg": "模板创建失败。可能是模板名已被使用。",
+  "opt": ""
+}
+2020-05-08 18:29:45,199 - logs… - INFO - test description:参数均正确，创建成功,
+test param:{'testDescription': '参数均正确，创建成功', 'defaultEnrollIntervalHour': -36, 'defaultFinishIntervalHour': -1, 'deleted': 1, 'duration': 1, 'enrollIntervalHour': -48, 'finishIntervalHour': 0, 'freq': 7, 'isFreqFixed': 1, 'name': '排期模板test17', 'stopEnrollContinuityType': 1, 'stopEnrollMethodType': 1, 'ret_code': 1},
+test result:True,
+result_info:{'code': 101061, 'data': 0, 'msg': '模板创建失败。可能是模板名已被使用。', 'opt': ''}
+2020-05-08 18:29:45,199 - logs… - INFO - 测试结束，输出log完结
+2020-05-08 18:29:45,199 - logs… - INFO - 测试结束，输出log完结

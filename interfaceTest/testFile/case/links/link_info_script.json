@@ -1,0 +1,12 @@
+[
+	{
+		"testDescription" : "链路不存在，获取失败",
+		"id" : 0,
+		"ret_code" : 0
+	},
+	{
+		"testDescription" : "获取成功",
+		"id" : "4",
+		"ret_code" : 1
+	}
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "testDescription" : "参数均正确，创建成功",
+    "defaultEnrollIntervalHour": -34,
+    "defaultFinishIntervalHour": -1,
+    "deleted": 1,
+    "duration": 1,
+    "enrollIntervalHour": -35,
+    "finishIntervalHour": 0,
+    "freq": 7,
+    "isFreqFixed": 1,
+    "name": "排期模板测试40",
+    "stopEnrollContinuityType": 1,
+    "stopEnrollMethodType": 1,
+    "ret_code" : 101061
+  },
+  {
+    "testDescription" : "默认入场时间晚于最早入场时间",
+    "defaultEnrollIntervalHour": -34,
+    "defaultFinishIntervalHour": -1,
+    "deleted": 1,
+    "duration": 1,
+    "enrollIntervalHour": -33,
+    "finishIntervalHour": 0,
+    "freq": 7,
+    "isFreqFixed": 1,
+    "name": "排期模板测试38",
+    "stopEnrollContinuityType": 1,
+    "stopEnrollMethodType": 1,
+    "ret_code" : 0
+  }
+]

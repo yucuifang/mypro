@@ -1,0 +1,22 @@
+[
+	{
+		"testDescription" : "链路ID不存在，停用链路失败",
+		"id" : 0,
+		"ret_code" : 0
+	},
+	{
+		"testDescription" : "链路状态为【使用中】& 【未结期数!=0】,停用链路失败",
+		"id" : 1,
+		"ret_code" : 0
+	},
+	{
+		"testDescription" : "链路状态为【使用中】& 【未结期数==0】,停用链路失败",
+		"id" : 1,
+		"ret_code" : 1
+	},
+	{
+		"testDescription" : "链路状态为【未启用】,停用链路失败",
+		"id" : 1,
+		"ret_code" : 0
+	}
+]
